@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{36CA3DCB-21F7-474B-B3D8-4DEA6D47BB43}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackDemo/Program.cs">
+    <Files>
+      <File FileName="Lab1/Program.cs" Line="50" Column="19" />
+      <File FileName="ClassPractice/Program.cs" Line="93" Column="15" />
+      <File FileName="LabOne/Program.cs" Line="1" Column="1" />
+      <File FileName="StackDemo/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week3" expanded="True">
+            <Node name="ArrayPractice" expanded="True" />
+            <Node name="AssessmentPractice" expanded="True" />
+            <Node name="ClassPractice" expanded="True" />
+            <Node name="Lab1" expanded="True" />
+            <Node name="Lab2" expanded="True" />
+            <Node name="LabOne" expanded="True" />
+            <Node name="ListReview" expanded="True" />
+            <Node name="PracticeAssessment2" expanded="True" />
+            <Node name="QueDemo" expanded="True" />
+            <Node name="StackDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TryCatchReview" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AssessmentPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ListReview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PracticeAssessment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QueDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ass2review FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StackDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.lab1practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Week3.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Ass2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mammals FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.TryCatchReview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OverloadDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArrayPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LabOne FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

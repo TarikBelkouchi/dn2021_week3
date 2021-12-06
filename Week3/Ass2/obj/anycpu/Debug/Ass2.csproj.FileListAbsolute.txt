@@ -1,0 +1,6 @@
+/Users/tarik/Projects/Week3/Week3/Ass2/bin/Debug/Ass2.exe
+/Users/tarik/Projects/Week3/Week3/Ass2/bin/Debug/Ass2.pdb
+/Users/tarik/Projects/Week3/Week3/Ass2/obj/anycpu/Debug/Ass2.csproj.AssemblyReference.cache
+/Users/tarik/Projects/Week3/Week3/Ass2/obj/anycpu/Debug/Ass2.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week3/Week3/Ass2/obj/anycpu/Debug/Ass2.exe
+/Users/tarik/Projects/Week3/Week3/Ass2/obj/anycpu/Debug/Ass2.pdb

@@ -1,0 +1,5 @@
+/Users/tarik/Projects/Week3/Week3/AssessmentPractice/bin/Debug/AssessmentPractice.exe
+/Users/tarik/Projects/Week3/Week3/AssessmentPractice/bin/Debug/AssessmentPractice.pdb
+/Users/tarik/Projects/Week3/Week3/AssessmentPractice/obj/anycpu/Debug/AssessmentPractice.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week3/Week3/AssessmentPractice/obj/anycpu/Debug/AssessmentPractice.exe
+/Users/tarik/Projects/Week3/Week3/AssessmentPractice/obj/anycpu/Debug/AssessmentPractice.pdb

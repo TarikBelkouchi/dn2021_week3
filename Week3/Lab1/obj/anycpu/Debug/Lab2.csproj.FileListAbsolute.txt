@@ -1,0 +1,5 @@
+/Users/tarik/Projects/Week3/Week3/Lab1/bin/Debug/Lab1.exe
+/Users/tarik/Projects/Week3/Week3/Lab1/bin/Debug/Lab1.pdb
+/Users/tarik/Projects/Week3/Week3/Lab1/obj/anycpu/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week3/Week3/Lab1/obj/anycpu/Debug/Lab1.exe
+/Users/tarik/Projects/Week3/Week3/Lab1/obj/anycpu/Debug/Lab1.pdb

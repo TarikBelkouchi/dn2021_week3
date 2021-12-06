@@ -1,0 +1,5 @@
+/Users/tarik/Projects/Week3/Week3/QueDemo/bin/Debug/QueDemo.exe
+/Users/tarik/Projects/Week3/Week3/QueDemo/bin/Debug/QueDemo.pdb
+/Users/tarik/Projects/Week3/Week3/QueDemo/obj/anycpu/Debug/QueDemo.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week3/Week3/QueDemo/obj/anycpu/Debug/QueDemo.exe
+/Users/tarik/Projects/Week3/Week3/QueDemo/obj/anycpu/Debug/QueDemo.pdb

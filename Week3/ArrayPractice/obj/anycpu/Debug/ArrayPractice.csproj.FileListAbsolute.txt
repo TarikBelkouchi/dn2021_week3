@@ -1,0 +1,1 @@
+/Users/tarik/Projects/Week3/Week3/ArrayPractice/obj/anycpu/Debug/ArrayPractice.csproj.CoreCompileInputs.cache

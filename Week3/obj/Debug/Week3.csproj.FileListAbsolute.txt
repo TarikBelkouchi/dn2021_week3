@@ -1,0 +1,6 @@
+/Users/tarik/Projects/Week3/Week3/bin/Debug/Week3.exe
+/Users/tarik/Projects/Week3/Week3/bin/Debug/Week3.pdb
+/Users/tarik/Projects/Week3/Week3/obj/Debug/Week3.csproj.AssemblyReference.cache
+/Users/tarik/Projects/Week3/Week3/obj/Debug/Week3.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Week3/Week3/obj/Debug/Week3.exe
+/Users/tarik/Projects/Week3/Week3/obj/Debug/Week3.pdb
